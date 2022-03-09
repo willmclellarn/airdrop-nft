@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tryghost/admin-api": "^1.4.3",
+    "dotenv": "^16.0.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "hardhat": "^0.0.7"
+  }
+}
